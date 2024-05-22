@@ -1,0 +1,28 @@
+p {
+	text-indent: 20px;
+	font-size: 20px;
+}
+table {
+	border: 1px solid red;
+	border-collapse: collapse;
+	text-align: center;
+}
+th,td {
+	width: 200px;
+	border: 1px solid red;
+}
+h1 {
+	text-align:center;
+}
+body {
+	background-color: #DFE1FC;
+	/*background-image: url('https://n1s1.hsmedia.ru/95/90/ac/9590ac92dd78e383fb3fb404fe3d00e6/713x400_1_3dd4c1cc0484c11f4c5fa49403375f6c@1000x561_0xac120004_14119189281676465509.jpeg');*/
+	background-size: cover;
+	
+}
+ol,ul,table {
+	font-size: 20px;
+}
+ul {
+	list-style:url('jordan.png')
+}
